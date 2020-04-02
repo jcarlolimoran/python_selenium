@@ -1,0 +1,20 @@
+#Headers
+Input_MainPage_Search|LOCATOR|//input[@name="search_query"]
+Image_MainPage_Logo|LOCATOR|//img[contains(@src,"logo.jpg")]
+
+#HomePage
+Label_Re-Inventing_The_Link|LOCATOR|//h1[text()='Re-Inventing the Link']
+
+
+#Header
+button_signup|LOCATOR|//button[contains(@class,'header-signup')]
+
+#SignUp_Modal
+button_signup_with_email|LOCATOR|//button[contains(.,'Sign Up with Email')]
+input_first_name|LOCATOR|//input[@id='first-name']
+input_last_name|LOCATOR|//input[@id='last-name']
+input_email|LOCATOR|//input[@id='email']
+input_password|LOCATOR|//input[@id='password']
+button_login_continue|LOCATOR|//button[@id='continue']
+label_thank_you|LOCATOR|//p[contains(.,'Thank you!')]
+label_welcome|LOCATOR|//div[@class='page-summary']//h2[contains(.,'Welcomebb')]

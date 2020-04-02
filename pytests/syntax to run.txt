@@ -1,0 +1,5 @@
+pytest test.py --alluredir=C:\Users\juncarlolimoran\Desktop\MySelenium_New\reports
+
+
+run in cmd
+allure serve C:\Users\juncarlolimoran\Desktop\MySelenium_New\reports
